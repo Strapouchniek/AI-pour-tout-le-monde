@@ -6,7 +6,6 @@ January 31, 2026 - Nicolas Chatelain
 
 Les outils d'IA sont partout. Mais « partout » ne veut pas encore dire « pour tout le monde ». Cette initiative existe pour accompagner ce changement auprès des designers, des PMs, des personnes qui aujourd’hui façonnent des produits hors code.
 
----
 
 ## Credo
 
@@ -22,7 +21,6 @@ Pas l'IA. Pas les erreurs. Pas les questions qu'on n'a pas osé poser ailleurs.
 **On ne se prend pas trop au sérieux.**
 Un afterwork, gratuit, sur notre temps libre, à Paris et potentiellement ailleurs.
 
----
 
 ## Ce que c'est. Ce que ce n'est pas.
 
@@ -30,13 +28,11 @@ Un afterwork, gratuit, sur notre temps libre, à Paris et potentiellement ailleu
 
 **Ce n'est pas** un cours. Pas lié à un seul outil. Nous pensons en termes de flows design.
 
----
 
 ## Pour qui
 
 Designers, PMs, chefs de projet, curieux.ses en tout genre. Le seul prérequis : être volontaire. Les premiers événements ne supposent aucune base technique.
 
----
 
 ## La progression
 
@@ -46,7 +42,6 @@ La série monte en trois paliers, mais chaque événement fonctionne seul.
 2. **Utiliser.** Prompting, génération d'interfaces, benchmarking. Des outils gratuits, utilisés en groupe, en direct.
 3. **Créer.** Le vibe coding : construire des interfaces avec du code, via Cursor, Claude Code, ou ce qui viendra après. C'est où on veut vous emmener.
 
----
 
 ## Déjà en mouvement
 
@@ -54,7 +49,6 @@ En février 2026, deux premiers événements organisés chez Sanofi et chez Dust
 
 *Claude Code, Cursor et Mobbin sont déjà partenaires. D’autres viendront.*
 
----
 
 ## Pourquoi contribuer
 
