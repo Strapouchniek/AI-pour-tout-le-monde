@@ -121,15 +121,17 @@ Vibe coding avec Cursor / Claude Code. Profil de speaker rare, niveau technique 
 
 Le format détermine la capacité du lieu, la disposition, et le déroulement. Deux modes :
 
-> **Workshop**
-Pratique en groupe, les participants font quelque chose ensemble. Petit comité : **15 à 30 personnes max**. Des tables par groupe si possible. Idéal pour les niveaux 2 et 3.
-> 
-
 > **Talk**
 Un ou plusieurs speakers présentent en 25 min chacun.e. Pas besoin de tables, format plus classique. Capacité plus grande : **25 à 100 personnes**. **Éviter les tables rondes**. Idéal pour le niveau 1, mais fonctionne à tous les niveaux.
 > 
 
-La plupart des éditions pourront être un mix : un talk de 20-25 min puis pratique en groupe. Dans ce cas, pensez capacité workshop.
+> **Workshop**
+Pratique en groupe, les participants font quelque chose ensemble. Petit comité : **15 à 30 personnes max**. Des tables par groupe si possible. Idéal pour les niveaux 2 et 3.
+> 
+
+> **Hybride**
+La plupart des éditions pourront être un hybride: talk(s) de 20-25 min puis pratique en workshop pour appliquer la théorie. Dans ce cas, pensez capacité workshop.
+>
 
 ### Critères de qualité de l'initiative
 
