@@ -16,7 +16,7 @@ Tout est fait pour rester léger. Cette initiative tourne sur notre temps libre 
 
 ## Outils à disposition
 
-![Contact Hub](images/Contact Hub.png)
+![Contact Hub](https://github.com/Strapouchniek/AI-pour-tout-le-monde/blob/main/images/Contact%20Hub.png)
 
 [**Contact Hub**](https://www.notion.so/2e7166572cc68066a37ed66fff801285?pvs=21) - Tableau qui centralise les speakers, les lieux, les événements passés et les contacts. Utile pour mettre en relation les contributeurs entre eux, sans que quiconque soit un goulot d'étranglement.
 
