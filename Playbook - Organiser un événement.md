@@ -18,8 +18,7 @@ Tout est fait pour rester léger. Cette initiative tourne sur notre temps libre 
 
 [**Contact Hub**](https://www.notion.so/2e7166572cc68066a37ed66fff801285?pvs=21) - Tableau qui centralise les speakers, les lieux, les événements passés et les contacts. Utile pour mettre en relation les contributeurs entre eux, sans que quiconque soit un goulot d'étranglement.
 
-[Télécharge la mascotte!](https://github.com/Strapouchniek/AI-pour-tout-le-monde/blob/main/images/Mascotte%20AI.png)
-**Mascotte** - Élément de branding de l’initiative à utiliser sur les assets de communication. Vous pouvez créer des variants sur https://gemini.google.com/app
+[**Mascotte**](https://github.com/Strapouchniek/AI-pour-tout-le-monde/blob/main/images/Mascotte%20AI.png) - Élément de branding de l’initiative à utiliser sur les assets de communication. Vous pouvez créer des variants sur https://gemini.google.com/app. Télécharge-là !
 
 [**LinkedIn**](https://www.linkedin.com/in/nicolas-chatel1/) - Canal principal de promotion des événements. Ajoutez-moi à votre réseau !
 
